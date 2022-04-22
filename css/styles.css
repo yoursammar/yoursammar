@@ -7343,7 +7343,7 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #1abc9c !important;
+  color: #000000 !important;
 }
 
 .text-secondary {
@@ -11061,5 +11061,5 @@ html {
 }
 
 .copyright {
-  background-color: #F5F5F5;
+  background-color: #000000;
 }
