@@ -7399,7 +7399,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #000000 !important;
 }
 
 .bg-secondary {
@@ -11061,5 +11061,5 @@ html {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color: #F5F5F5;
 }
